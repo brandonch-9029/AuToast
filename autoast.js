@@ -47,5 +47,5 @@ function waitForMe (ms) {
     })
 }
 
-
-findButtons(5)
+// By default, check the first 60 check-ins on your homepage. Feel free to change this if you like to toast more old check-ins.
+findButtons(3)
